@@ -1,9 +1,14 @@
-package com.secondfury.attractgroup;
+package com.secondfury.attractgroup.presenters;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 
 import androidx.annotation.DrawableRes;
+
+import com.secondfury.attractgroup.App;
+import com.secondfury.attractgroup.R;
+import com.secondfury.attractgroup.data.DataBundle;
+import com.secondfury.attractgroup.data.MockDataBundle;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,12 +1,15 @@
-package com.secondfury.attractgroup;
+package com.secondfury.attractgroup.ui;
 
 import android.os.Bundle;
 
-import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
 import androidx.viewpager.widget.ViewPager;
+
+import com.secondfury.attractgroup.data.DataBundle;
+import com.secondfury.attractgroup.presenters.MainPresenter;
+import com.secondfury.attractgroup.R;
 
 import java.util.List;
 

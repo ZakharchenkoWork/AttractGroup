@@ -1,4 +1,4 @@
-package com.secondfury.attractgroup;
+package com.secondfury.attractgroup.ui;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -12,6 +12,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
+
+import com.secondfury.attractgroup.R;
 
 /**
  * Created by Konstantyn Zakharchenko on 20.11.2019.

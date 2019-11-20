@@ -1,4 +1,4 @@
-package com.secondfury.attractgroup;
+package com.secondfury.attractgroup.ui;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -8,6 +8,10 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.secondfury.attractgroup.R;
+import com.secondfury.attractgroup.TimeUtils;
+import com.secondfury.attractgroup.data.DataBundle;
 
 import java.util.ArrayList;
 import java.util.List;

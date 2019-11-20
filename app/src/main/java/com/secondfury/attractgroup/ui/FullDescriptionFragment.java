@@ -1,4 +1,4 @@
-package com.secondfury.attractgroup;
+package com.secondfury.attractgroup.ui;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -8,6 +8,10 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import androidx.fragment.app.Fragment;
+
+import com.secondfury.attractgroup.R;
+import com.secondfury.attractgroup.TimeUtils;
+import com.secondfury.attractgroup.data.DataBundle;
 
 /**
  * Created by Konstantyn Zakharchenko on 19.11.2019.

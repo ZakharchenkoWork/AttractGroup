@@ -1,4 +1,4 @@
-package com.secondfury.attractgroup;
+package com.secondfury.attractgroup.data;
 
 import android.graphics.Bitmap;
 
